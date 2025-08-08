@@ -8,7 +8,7 @@ public class rectangle {
     }
 
     public static double calculateArea(int length, int width) {
-        return length * width;`
+        return length * width;
     }
 
 }
